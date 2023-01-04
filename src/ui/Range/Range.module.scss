@@ -1,0 +1,11 @@
+input {
+    margin: 0px;
+    max-width: 398px;
+    margin-bottom: 13px;
+}
+
+.range::-webkit-slider-runnable-track {
+    background-color: #6266EB;
+    height: 4px;
+    border-radius: 31px
+}

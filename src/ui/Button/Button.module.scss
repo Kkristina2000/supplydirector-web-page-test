@@ -1,0 +1,17 @@
+.button{
+    white-space: nowrap;
+    border:none;
+    outline:none;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 16px 105px;
+    text-align: center;
+    transition : background-color .1s ease;
+    background-color: #6266EB;
+    cursor: pointer;
+    color:#FFFFFF;
+
+    &:hover{
+        background-color: #5a5ecf;
+    }
+}
